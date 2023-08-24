@@ -1,6 +1,6 @@
 # Chandrayaan 3 - A Space Mission Adventure
 
-## YOUTUBE LINK - https://youtu.be/qwVL1V-VS8I?si=RkTb9lBDPXugfFDC
+YOUTUBE LINK - https://youtu.be/qwVL1V-VS8I?si=RkTb9lBDPXugfFDC
 ## Introduction
 
 Embark on an incredible journey with Chandrayaan 3, an interactive Python game developed using Pygame. Experience the thrill of space exploration as you navigate through various levels, each representing a crucial phase of the Chandrayaan 3 mission.

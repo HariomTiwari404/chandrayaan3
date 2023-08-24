@@ -1,6 +1,6 @@
 # Chandrayaan 3 - A Space Mission Adventure
 
-![youtube](https://raw.githubusercontent.com/SwarajTW/chandrayaan3/main/screenshot_chandrayaan/pngwing.com.png)
+![youtube icon](https://raw.githubusercontent.com/SwarajTW/chandrayaan3/main/screenshot_chandrayaan/pngwing.com.png)
 
 ![Youtube link](https://youtu.be/qwVL1V-VS8I?si=RkTb9lBDPXugfFDC)
 ## Introduction

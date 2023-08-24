@@ -8,4 +8,4 @@ Experience the journey of Chandrayaan 3 through this project created in Python u
 
 ## Level ONE
 
-!.[Rocket launch].(https://raw.githubusercontent.com/SwarajTW/chandrayaan3/main/screenshot_chandrayaan/shot_1.png)
+![Rocket launch](https://raw.githubusercontent.com/SwarajTW/chandrayaan3/main/screenshot_chandrayaan/shot_1.png)

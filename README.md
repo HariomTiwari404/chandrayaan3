@@ -3,4 +3,4 @@
 
 ## Introduction
 
-Experience the joourney of Chandrayaan 3 through this Project which is created in Python using Pygame.
+Experience the journey of Chandrayaan 3 through this project created in Python using Pygame

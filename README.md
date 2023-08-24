@@ -1,7 +1,7 @@
 # Chandrayaan 3 - A Space Mission Adventure
 
 
-[![Watch the Video](https://img.youtube.com/vi/abcdef12345/0.jpg)](https://www.youtube.com/watch?v=qwVL1V-VS8I&ab_channel=HARIOMTIWARI)
+[![Watch the Video]([https://img.youtube.com/vi/abcdef12345/0.jpg](https://i.ytimg.com/vi/qwVL1V-VS8I/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIHBACGAYgATgB&rs=AOn4CLDycoK18nTqU5enW9W7SUTsxHzozg))](https://www.youtube.com/watch?v=qwVL1V-VS8I&ab_channel=HARIOMTIWARI)
 ## Introduction
 
 Embark on an incredible journey with Chandrayaan 3, an interactive Python game developed using Pygame. Experience the thrill of space exploration as you navigate through various levels, each representing a crucial phase of the Chandrayaan 3 mission.

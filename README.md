@@ -3,7 +3,7 @@
 click on Youtube icon ->
 [![Watch the Video](https://raw.githubusercontent.com/SwarajTW/chandrayaan3/main/screenshot_chandrayaan/pngwing.com.png)](https://www.youtube.com/watch?v=qwVL1V-VS8I&ab_channel=HARIOMTIWARI)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qwVL1V-VS8I?si=V5ythEZdwEEDyjyD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Introduction
 
 Embark on an incredible journey with Chandrayaan 3, an interactive Python game developed using Pygame. Experience the thrill of space exploration as you navigate through various levels, each representing a crucial phase of the Chandrayaan 3 mission.
